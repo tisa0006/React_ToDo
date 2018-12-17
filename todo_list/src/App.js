@@ -6,8 +6,8 @@ import Bla from './component/bla';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <Bla />
+      <div>
+        <ToDoList />
       </div>
     );
   }
